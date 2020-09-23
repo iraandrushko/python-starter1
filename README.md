@@ -1,1 +1,1 @@
-# python-starter
+# Learning basics of Python programming language
